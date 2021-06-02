@@ -2,16 +2,14 @@
 
 # INSTALL
 
-CLONE THIS REPO
+####CLONE THIS REPO
 
-```git clone git@github.com:MABAKAR/spotify.git  
-```
+`*git clone git@github.com:MABAKAR/spotify.git `
 
-NAVIGATE IN THE FOLDER
+####NAVIGATE IN THE FOLDER
 
-```cd spotify
-```
+`*cd spotify`
 
-IMPORT THE FILE SQL.SQL WITH PHPMYADMIN
+####IMPORT THE FILE SQL.SQL WITH PHPMYADMIN
 
 cd
