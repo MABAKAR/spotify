@@ -2,14 +2,23 @@
 
 # INSTALL
 
-####CLONE THIS REPO
+CLONE THIS REPO
 
-`*git clone git@github.com:MABAKAR/spotify.git `
+`git clone git@github.com:MABAKAR/spotify.git `
 
-####NAVIGATE IN THE FOLDER
 
-`*cd spotify`
+NAVIGATE IN THE FOLDER
 
-####IMPORT THE FILE SQL.SQL WITH PHPMYADMIN
+`cd spotify`
 
-cd
+
+#### IMPORT THE FILE SQL.SQL WITH PHPMYADMIN
+
+
+NAVIGATE IN THE FOLDER
+
+`cd api`
+
+INSTALL PROJECT DEPENDENCIES
+
+`composer install`
