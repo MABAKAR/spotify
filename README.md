@@ -1,4 +1,4 @@
-# spotify
+# MINI SPOTIFY WITH REACT 
 
 # INSTALL
 
