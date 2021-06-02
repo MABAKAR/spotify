@@ -2,5 +2,6 @@
 
 # INSTALL
 
-##CLONE REPO
+CLONE REPO
+
 ```git clone git@github.com:MABAKAR/spotify.git```
