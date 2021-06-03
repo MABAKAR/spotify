@@ -1,5 +1,7 @@
 # MINI SPOTIFY WITH REACT 
 
+![alt text](http://Users/mahamatabakar/Desktop/Capture d’écran 2021-06-03 à 08.57.05.png)
+
 # INSTALL
 
 CLONE THIS REPO
