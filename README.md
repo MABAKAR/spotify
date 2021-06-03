@@ -1,6 +1,6 @@
 # MINI SPOTIFY WITH REACT 
 
-!(http:/Capture d’écran 2021-06-03 à 08.57.05![image](https://user-images.githubusercontent.com/73992960/120600499-2194f900-c449-11eb-8dc9-af7174440db1.png))
+![](/Users/mahamatabakar/Desktop/Capture d’écran 2021-06-03 à 09.33.44.png)
 # INSTALL
 
 CLONE THIS REPO
