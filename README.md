@@ -1,6 +1,6 @@
 # MINI SPOTIFY WITH REACT 
 
-![](https://github.com/[MABAKAR]/[QUIZZ]/blob/[main]/Users/mahamatabakar/Desktop/Captured’écran2021-06-3à09.33.44.png?raw=true)
+![s](https://github.com/MABAKAR/QUIZZ/main/Users/mahamatabakar/Desktop/Captured’écran2021-06-3à09.33.44.png?raw=true)
 
 # INSTALL
 
