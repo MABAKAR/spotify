@@ -6,12 +6,12 @@
 
 CLONE THIS REPO
 
-`git clone git@github.com:MABAKAR/spotify.git `
+>`git clone git@github.com:MABAKAR/spotify.git `
 
 
 Navigate in the folder
 
-`cd spotify`
+>`cd spotify`
 
 
 
@@ -21,25 +21,25 @@ Navigate in the folder
 
 Navigate in the folder api
 
-`cd api`
+>`cd api`
 
 Insatll project dependencies
 
-`composer install`
+>`composer install`
 
 launch the api 
 
-`symfony serve -d`
+>`symfony serve -d`
 
 
 Navigate to the folder frontend
 
-`cd ../frontend`
+>`cd ../frontend`
 
 Install project dependencies
 
-`npm install`
+>`npm install`
 
 launch the frontend
 
-`npm start`
+>`npm start`
